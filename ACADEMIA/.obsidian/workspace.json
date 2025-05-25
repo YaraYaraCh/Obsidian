@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "51b9b3ecbac5186a",
+    "type": "split",
+    "children": [
+      {
+        "id": "730c09d601708e1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3c9bad780d3c332",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9bee07ab4fa3914",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e8ad983edbc3ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ac763fa53988645",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3ac9916d1f85fed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "481a65e8a66e875f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "ea77c59f6253a620",
+    "type": "split",
+    "children": [
+      {
+        "id": "262f17d77576a897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd595a70b3a209a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "e4ff21235c7edc52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "038610930dfaab6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0f4b45af393f465c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "1ac763fa53988645",
+  "lastOpenFiles": [
+    "Разнообразие вирусов и прокариот. Особенности клеточной организации прокариот. Их эволюция и функциональные различия..md",
+    "МАГИСТРАТУРА.md",
+    "Наземные позвоночные, не связанные с водной средой. Эволюция мозга, скелета и систем размножения..md",
+    "Антигены, свойства, типы антигенной специфичности..md",
+    "Вид как популяционная система. Жизненные формы и экологические ниши. Жизненные стратегии..md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2025-05-25.md",
+    "Многоклеточность и колониальность.md",
+    "Роль прокариот в экстремальных экосистемах.md",
+    "Pasted image 20250525040241.png",
+    "Цикл Хитридиомицета.png",
+    "Pasted image 20250525042123.png",
+    "Pasted image 20250525041941.png",
+    "Pasted image 20250525041910.png",
+    "Pasted image 20250525041813.png",
+    "спикулы.md",
+    "Pasted image 20250525041623.png",
+    "Pasted image 20250525041544.png",
+    "Pasted image 20250525041533.png",
+    "Pasted image 20250525041508.png",
+    "Возможные пути появления эукариотических клеток.md",
+    "апланоспоры.md",
+    "Эволюционная связь архей и эукариот.md",
+    "Темная материя микробного мира.md",
+    "Гигантские\" вирусы и вирофаги.md",
+    "Ранние этапы эмбриогенеза у губок и кишечнополостных.md",
+    "Эволюция жизненных циклов.md",
+    "Роль мезоглеи/мезохила в эволюции двуслойных животных.md",
+    "Роль мезоглеи",
+    "Конвергентное возникновение многоклеточности.md",
+    "Эволюционное значение дикариотической фазы у грибов.md",
+    "\"Спорные\" группы на границе одноклеточности и многоклеточности.md",
+    "Генетические и молекулярные предпосылки многоклеточности.md",
+    "Сообщества и их типы. Экосистема, биогеоценоз, биоценоз..md",
+    "Эволюция сложности у инфузорий.md",
+    "Проблема определения \"одноклеточный организм\" на примере колониальных форм.md",
+    "Разнообразие и функции рудиментарных митохондрий.md",
+    "Многообразие и эволюция пластид.md",
+    "NSU_Exam_Obsidian",
+    "Untitled",
+    "N="
+  ]
+}
